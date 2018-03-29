@@ -1,0 +1,1 @@
+This contains codes of first 5 chapters of the book 'Text Mining with R' by Julia Silge and David Robinson
